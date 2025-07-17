@@ -1,0 +1,5 @@
+playwright~=1.47
+python-dotenv~=1.0
+typer[all]~=0.12
+rich~=13.7
+pydantic~=2.7

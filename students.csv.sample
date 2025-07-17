@@ -1,0 +1,3 @@
+email,password,phone,first_name,surname,county,dob,place_of_birth,zip
+test1@example.com,Password123!,+254700000001,Alpha,Tester,Nairobi,1995-05-05,Nairobi,00100
+test2@example.com,Password123!,+254700000002,Beta,Student,Mombasa,1998-12-12,Mombasa,80100
