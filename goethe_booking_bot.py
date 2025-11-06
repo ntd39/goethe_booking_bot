@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Goethe B2 booking watcher + auto-book flow.
+Goethe B1 booking watcher + auto-book flow.
 
 Behavior (per user spec):
 - Start at START_URL.
@@ -100,7 +100,7 @@ else:
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-START_URL = "https://www.goethe.de/ins/ke/en/spr/prf/gzb2.cfm"
+START_URL = "https://www.goethe.de/ins/vn/vi/sta/han/prf/gzb1.cfm"
 MAX_REFRESH_MS = 800
 STEP_WAIT_MS = 200
 DEFAULT_TIMEOUT = 5_000
